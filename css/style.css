@@ -94,7 +94,8 @@ h4 {
 
 h1 {
   margin-bottom: 8px;
-  font-weight: 300;
+  font-weight: 300
+  font-size: 20pt;
 }
 
 #masthead {
