@@ -65,9 +65,10 @@ p {
   font-size: 14px;
 }
 
-img {
-  width: auto;
-  height: 700px;
+img 
+{
+  width: 100%;
+  height: auto;
 }
 .avatar{
   width: auto ; 
