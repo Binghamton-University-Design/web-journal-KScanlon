@@ -57,7 +57,7 @@ aside {
 }
 
 body {
-  font-family: 'Roboto_Mono', bold italic;
+  font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -76,7 +76,7 @@ img {
 
 h1, h2, h3, h4 {
   margin-top: 0;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 h4 {
