@@ -158,11 +158,7 @@ p.footer {
   margin-bottom: 0;
 }
 
-a {
-  text-decoration: underline;
-  color: #000000;
-  transition: all 0.15s ease-in-out;
-}
+
 
 a:hover {
   text-decoration: none;
